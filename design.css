@@ -1,0 +1,19 @@
+body {
+   background-color: rgb(48,98,48);
+}
+h1 {
+   font: 80px Courier New, monospace;
+text-align: center;
+color: rgb(155,188,15);
+}
+
+p {
+font: 20px Courier New, monospace;
+text-align: center;
+color: rgb(155,188,15);
+}
+a {
+font: 20px Courier New, monospace;
+text-align: center;
+color: rgb(155,188,15);
+}
